@@ -39,3 +39,4 @@
 #### Transforma una secuencia discreta x[n] en una secuencia de frecuencia X[k], k es el indice de frecuencia discreta.
 #### Se calcula obteniendo la sumatoria que se realiza sobre todos los valores de n desde 0 hasta N-1 (N es la longitud de la secuencia discreta), multiplicado por la secuencia original en el dominio del tiempo discreto x[n] y la función exponencial compleja que oscila a una frecuencia discreta. 
 ## hola felipe
+## adios josias
