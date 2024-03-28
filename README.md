@@ -3,5 +3,4 @@
 #### Profesor: Victor Poblete
 #### Ayudante: Esteban Vargas
 #### Asignatura: Procesamiento digital de señales, ACUS099
-#### Fecha: 27/03/2024
 
