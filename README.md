@@ -1,4 +1,4 @@
-![logo](descarga.png)
+![logo](fotos/descarga.png)
 
 # <center>**Informe: Descripción de lo aprendido**
 
