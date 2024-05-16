@@ -1,4 +1,4 @@
-![logo](informe/Audios%20y%20fotos/fotos/descarga.png)
+![logo](informe/AyF/fotos/descarga.png)
 
 # <center>**Informe: Descripción de lo aprendido**
 
